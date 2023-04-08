@@ -1,0 +1,20 @@
+{
+  "name": "aliakbar_calculator",
+  "version": "1.0.0",
+  "description": "CLI Calculator",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
